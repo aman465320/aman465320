@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Mathur</h1>
 <h3 align="center">A passionate full stack developer from India currently pursuing Btech from IIIT Kota . I have great interest in developing Web Applications.</h3>
-<img align="right" alt="Coding" width="350" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="500" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <a href="https://twitter.com/amanmat40448332" target="blank"><img src="https://img.shields.io/twitter/follow/amanmat40448332?logo=twitter&style=for-the-badge" alt="amanmat40448332" /></a> </p>
 
 - 📫 How to reach me **amanmathur.2612@gmail.com**
